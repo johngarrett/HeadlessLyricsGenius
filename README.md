@@ -1,5 +1,5 @@
 # Forked from johnwmillr/LyricsGenius
-#### goals 
+## goals 
 - don't rely on input for errors that are thrown
 - custom json formatting -- remove unnecessary information
   - add ratings for displayed lyrics e.g. `[rating]`
